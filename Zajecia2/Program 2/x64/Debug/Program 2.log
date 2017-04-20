@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\kamislaw\documents\visual studio 2015\projects\zajecia2\program 2\source.cpp(73): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kamislaw\documents\visual studio 2015\projects\zajecia2\program 2\source.cpp(74): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kamislaw\documents\visual studio 2015\projects\zajecia2\program 2\source.cpp(95): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kamislaw\documents\visual studio 2015\projects\zajecia2\program 2\source.cpp(96): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Program 2.vcxproj -> C:\Users\Kamislaw\Documents\Visual Studio 2015\Projects\Zajecia2\x64\Debug\Program 2.exe
+  Program 2.vcxproj -> C:\Users\Kamislaw\Documents\Visual Studio 2015\Projects\Zajecia2\x64\Debug\Program 2.pdb (Partial PDB)
